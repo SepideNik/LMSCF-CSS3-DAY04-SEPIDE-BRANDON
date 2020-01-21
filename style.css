@@ -62,8 +62,7 @@ a {
 
 .column {
   column-count: 2;
-  column-fill: balance;
-  height: 400px; }
+  column-fill: balance; }
 
 .div1_column {
   margin-right: 20px; }
